@@ -1,7 +1,7 @@
-# python-api-challenge
+# OpenWeatherMap-API-Visualization
 
-This challenge had two main parts.  First was getting weather data from a list of roughly 600 cities.  The second section was filtering 
-	for desirable weather circumstances for a vacation location.
+First getting weather data from a list of roughly 600 cities.  
+Second filtering for desirable weather circumstances for a vacation location.
 
 Both sections have their own folder.  In each folder there is an api_keys.py file that needs to be edited by the user and enter in their API key
 	for the appropriate API.  IE:
